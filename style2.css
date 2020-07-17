@@ -1,0 +1,23 @@
+.navbar{
+    background-color:white !important;
+}
+
+#newz{
+    background-color: rgb(147, 162, 168);
+}
+
+a{
+    color: black;
+}
+
+@media only screen and (min-width: 768px) {
+    #about{
+        padding-top: 2rem;
+    }
+}
+
+@media only screen and (min-width: 992px){
+    #about{
+        font-size: 20px;
+    }
+}

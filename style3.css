@@ -1,0 +1,46 @@
+.navbar{
+    background-color: white !important;
+}
+
+#news{
+    background-color: gray;
+}
+
+h3{padding-top: 2rem;}
+
+#glory{
+    background-image: url(a.jpg);
+    background-size: cover;
+}
+
+a,p{
+ color: black; 
+ padding-left: 2rem;
+ padding-top: 2rem;  
+ padding-bottom: 3rem;
+}
+
+label{
+    color: rgb(233, 105, 105);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+input{
+    background-color: white;
+    border-color:rgb(233, 105, 105);
+    border-radius: 10px;
+    height: 2rem;
+}
+
+#message{
+    height: 5rem;
+}
+
+#but2{
+    border-radius: 25px;
+    background-color: rgb(248, 156, 156);
+    width: 11rem;
+    height: 3rem;
+}
